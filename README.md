@@ -23,6 +23,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="RyRyIT's GitHub Stats" src="https://github-readme-stats.RyRyIT.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="RyRyIT's GitHub Stats" src="https://github-readme-stats.RyRyIT.vercel.app/api?username=RyRyIT&show_icons=true&hide_border=true" />
 
 </details>
