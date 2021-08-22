@@ -2,8 +2,8 @@
 ![Astronaut](https://user-images.githubusercontent.com/74007392/129113230-e63f2ff6-9171-4c4e-9b86-52cb8ab3a214.png)
 ## I'm a Full-Stack web Devolper 
 - :muscle:I'm currently working on Angular and Reactjs projects
-- :muscle:I'm currently learning Angular and React   
-- :technologist:I'm currently looking for web development role opportunity 
+- :muscle:I'm currently building my first app. 
+- :technologist:I'm currently looking for front end web development opportunities
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
